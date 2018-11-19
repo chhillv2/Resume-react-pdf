@@ -1,0 +1,180 @@
+{
+  "basics": {
+    "name": "Vikas Chhillar",
+    "label": "Front End Developer",
+    "picture": "./profilePhoto.jpg",
+    "email": "Vikas.chhillar2@mail.dcu.ie",
+    "phone": "0892022504",
+    "summary": "▪ Possesses in-depth knowledge across web development, data visualization, analytics and experience of working with different data format and testing. Detail oriented individual and ability to work in a fast-paced environment.",
+    "Project":"1. Statistical Analysis on population dataset: A statistical study on the data collected on population to verify and confirm the inference of the analysis. Test: Anova, Regression, t- test. Programming: R, Python, Excel, LaTex.",
+    "Project1":"2. Cloud Architecture: Implementation and deployment on three different cloud platforms to compare scalability and flexibility of different architectures. Technologies: Amazon AWS, Openshift, Heroku.",
+    "Project3":"3. Email spam filtering: Project involved machine learning to predict the incoming email as ham or spam from the dataset. Technology: Python and machine learning algorithms. ",
+    "Project5":"5. Web interface to predict timing and location of buses: Proposed a web interface that gives predicted location of buses to the users by constructing a rich longitudinal and latitudinal dataset of the bus stops and giving the predicted time on map using the info window. Technologies: Microsoft Excel, Python, Google maps API, Php, JavaScript, HTML, CSS, Heroku.",
+
+    "location": {
+      "city": "Dublin",
+      "countryCode": "Ireland"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "vikas-chhillar-2b489812b/",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "chhillv2",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ABB Dundalk, Ireland",
+      "position": "Junior software Developer",
+      "website": "http://nrma.com.au",
+      "startDate": "2017-11-22",
+      "endDate": "",
+      "summary": "▪ Worked in an agile environment based projects which involved delivery in each sprint of project cycle. I am mainly responsible for creating the datasource plugins, App plugins and testing.",
+      "highlights": [],
+      "summary1": "▪ Built scalable apps using Typescript, javascript, angularJS, React, Grunt, webpack, babel, node modules and added features like threshold, y axis max value for scalable data points and local storage and session timeout. ",
+      "summary2": "▪ Generated visually impactful dashboards in Grafana which is an open platform for analytics and monitoring the time series data and I was responsible to query the data, visualize, alert on, understand the metrics and create, explore and share dashboard with the team. I also worked with plotlyJS and d3js for visualization. ",
+      "summary3": "▪ Created fake data using node server and also worked with node file system and http module and also currently working on Microsoft Azure to push the data points to event hub.",
+      "summary4": "▪ Testing: Created and executed automated software test plans, cases and scripts to uncover and identify the software problems. Jest, Jasmine, Mocha, Postman, RESTFul api and Webdriver were used for testing.",
+      "summary5":"▪ Presentation: Worked on weekly build to test the application for bugs and created new tasks and presented results of findings to the senior managers and worked on ABB Quality Control QCS800xA software and json format data.",
+      "summary7":"▪ Technologies :HTML, CSS, VMWare, SVG, Canvas, Nodejs, Typescript, Javascript, Angularjs, Reactjs, Mocha, Jasmine, d3js, Plotly, Grafana, Visual studio, Postman, Docker."
+    },
+
+    {
+      "company": "Aveclabs pvt. Ltd",
+      "position": "Software Developer intern",
+      "website": "http://nrma.com.au",
+      "startDate": "2017-06-01",
+      "endDate": "2016-03-01",
+      "summary": " ▪ Designed the internal structure for collecting the data using Twitter API. ▪ Took over front end development and maintenance of the twitter-based application which showed twitter data analytics and sentiment analysis in real time. Technologies used: PostgreSQL, Ruby on rails, MySQL, HTML, CSS, bootstrap.",
+      "highlights": []
+    },
+    {
+      "company": "Interactive ltd. (Asthma society of Ireland)",
+      "position": "Fundraiser",
+      "website": "",
+      "startDate": "2016-12-01",
+      "endDate": "2017-04-22",
+      "summary": "▪ Encouraging people to do charity by giving them lottery vouchers & Trained new staffs and organised special events during seasonal festivals to get maximized charity.",
+      "highlights": []
+    },
+    {
+      "company": "Pyasis pharmaceutical pvt. ltd.",
+      "position": "Software developer",
+      "website": "",
+      "startDate": "2015-06-12",
+      "endDate": "2016-04-15",
+      "summary": "▪ At Pyasis, I was required to carry out full stack duties across a broad range of projects including MySQL with front end technologies ranging from html/css/javascript to Python and R for analysis. ▪ Analysis: acquired data from different sources and analysed results using statistical techniques and programming.",
+      "highlights": []
+    }
+  
+    
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Dublin city university",
+      "area": "Computing (Data Analytics)",
+      "studyType": "Postgraduate diploma",
+      "startDate": "2016-09-10",
+      "endDate": "2017-09-10",
+      "gpa": "",
+      "courses": ["hn","hh"]
+    }    
+    ,{
+      "institution": "University of Delhi",
+      "area": "Computer science(aps)",
+      "studyType": "BSc.",
+      "startDate": "2012-06-01",
+      "endDate": "2015-07-01",
+      "gpa": "2.1",
+      "courses": []
+    },
+    {
+      "institution": "Yogdham Rishikesh",
+      "area": "Hatha Yoga",
+      "studyType": "Yoga teacher training course(200 hours).",
+      "startDate": "2016-05-01",
+      "endDate": "2016-06-01",
+      "gpa": "2.1",
+      "courses": []
+    },
+    {
+      "institution": "Dexlab Analytics",
+      "area": "R Programming Certification",
+      "startDate": "2016-07-01",
+      "endDate": "2016-08-01",
+      
+      "gpa": "2.1",
+      "courses": []
+    }
+
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "R",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES6",
+        "Typescript",
+        "Angularjs ",
+        "React",
+        "Redux",
+        "Jest",
+        "Jasmine",
+        "jQuery",
+        "Mocha",
+        "Gulp",
+        "Grunt",
+        "Babel",
+        "Bootstrap",
+        "D3js with canvas/SVG",
+        "Grafana",
+        "C++",
+        "Visual Studio",
+        "Git",
+        "Microsoft Excel",
+        "OpenRefine",
+        "Google Maps API",
+        "Postman",
+        "RESTFul API",
+        "Node",
+        "Plotly",
+        "Docker",
+        "Ruby on rails",
+        "Ruby",
+        "php",
+        "MySQL",
+        "Git",
+        "Django",
+        "Webdriver.io",
+        "Agile/Scrum Methodology"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Guitar",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
